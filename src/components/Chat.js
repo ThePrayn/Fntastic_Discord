@@ -79,6 +79,7 @@ export default function Chat() {
                                 <div key={index} className="message-content">
                                     <div className="profile-picture">
                                     <img src={message.picture} alt="User-img" />
+                                    <span className="status-text"></span>
                                     </div>
                                     <div className="message-text">
                                     <h6>{message.user}</h6>
@@ -96,18 +97,23 @@ export default function Chat() {
                         <h5>Online - 4</h5>
                         <div className="online-user">
                             <img src="image/User-img/Picture-1.svg" alt=""/>
+                            <span className="status-users"></span>
                             <h5>DoomSlayer</h5>
+                            
                         </div>
                         <div className="online-user">
                             <img src="image/User-img/Picture-2.svg" alt=""/>
+                            <span className="status-users"></span>
                             <h5>Nomad</h5>
                         </div>
                         <div className="online-user">
                             <img src="image/User-img/Picture-3.svg" alt=""/>
+                            <span className="status-users"></span>
                             <h5>Dante</h5>
                         </div>
                         <div className="online-user">
                             <img src="image/User-img/Picture-1.svg" alt=""/>
+                            <span className="status-users"></span>
                             <h5>Nagibator228</h5>
                         </div>
                         <h5>Offline - 3</h5>
