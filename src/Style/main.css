@@ -388,13 +388,12 @@ body {
   }
   
   .chat-title {
-    padding: 20px 20px;
+    padding: 19px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: 33.5px;
     color: #fff;
-    padding: -1px 15px;
     border-bottom: 1.5px solid rgba(0, 0, 0, 0.2);
   }
   
