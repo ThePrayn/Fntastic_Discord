@@ -463,6 +463,10 @@ body {
   .chat-section .chat-container .header {
     color: #fff;
   }
+
+  .chat{
+    max-width: 1000px;
+  }
   
   .chat-section .chat-container .header h2 {
     margin-top: 10px;

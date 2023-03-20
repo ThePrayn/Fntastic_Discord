@@ -5,7 +5,7 @@ export default function ServerSection() {
         
             <div className="server-info">
                 <header>
-                    <p>FNTASTIC TEAM</p>
+                    <p>FANTASTIC TEAM</p>
                     <img src="image/down-arrow.svg" alt=""/>
                 </header>
                 <div className="channel-container">

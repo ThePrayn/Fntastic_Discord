@@ -10,7 +10,7 @@ export default function Profile() {
                         <span className="status"></span>
                     </div>
                     <div className="profile-text">
-                        <p className="username">Fntastic_Person</p>
+                        <p className="username">User</p>
                         <p className="userid">#0001</p>
                     </div>
                 </div>

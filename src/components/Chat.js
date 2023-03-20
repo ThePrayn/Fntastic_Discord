@@ -6,22 +6,22 @@ export default function Chat() {
         {
             user: 'DoomSlayer',
             picture: 'image/User-img/Picture-1.svg',
-            text: 'Когда уже релизнится The Day Before? Я целую вечность тут жду и никак не могу дождаться'
+            text: 'Mauris magna nunc, lobortis a faucibus vel, imperdiet ac orci. Quisque id orci non lacus faucibus elementum vel eu ipsum. Mauris fringilla aliquet leo id pulvinar. Pellentesque in facilisis mauris. Cras in metus non orci aliquet vestibulum. Aliquam ullamcorper semper velit eget dapibus. Aliquam eu efficitur risus. Phasellus tincidunt felis nec finibus interdum. Proin eleifend magna purus, ac vulputate massa ultrices sed.'
           },
           {
             user: 'Nomad',
             picture: 'image/User-img/Picture-2.svg',
-            text: 'Когда надо, тогда и релизнится! Лучше пусть разработчики качественно сделают свою работу, чтоб не получилось как с Киберпанком'
+            text: 'Nulla dapibus velit vel neque fermentum, ac vehicula eros bibendum. Fusce vel orci eros. Ut elementum ornare magna. Etiam venenatis elementum nibh non feugiat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras blandit vitae felis vitae fermentum. Donec tempor, libero id congue sollicitudin, metus dui elementum orci, non finibus mauris nisl et velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi purus ipsum, rhoncus facilisis est ut, pretium efficitur sapien. Curabitur finibus urna ac metus dignissim, vitae vestibulum dui pulvinar. Vestibulum luctus lectus eget vestibulum interdum. Ut id odio lectus.'
           },
           {
             user: 'Dante',
             picture: 'image/User-img/Picture-3.svg',
-            text: 'А куда игра пропала из стима? Я же добавлял её себе в желаемое, а теперь её нигде нет'
+            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu dui tincidunt, vulputate ipsum ac.'
           },
           {
             user: 'TheWildEight',
             picture: 'image/User-img/Picture-3.svg',
-            text: 'Да просто какой то чёрт зарегал торговую марку с таким же названием и теперь бычит на Fntastic, скоро ребята разберутся'
+            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non tincidunt libero, vulputate cursus mi. Suspendisse at finibus sapien. Mauris dictum eros eu nibh tristique feugiat. Ut enim orci, dapibus.'
           },
     ]);
 
@@ -114,7 +114,7 @@ export default function Chat() {
                         <div className="online-user">
                             <img src="image/User-img/Picture-1.svg" alt=""/>
                             <span className="status-users"></span>
-                            <h5>Nagibator228</h5>
+                            <h5>Vi</h5>
                         </div>
                         <h5>Offline - 3</h5>
                         <div className="offline-user">
