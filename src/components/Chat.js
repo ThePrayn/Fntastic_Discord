@@ -30,7 +30,7 @@ export default function Chat() {
 
     const sendMessage = () => {
         setMessage([...messages, {
-            user: 'Super cool person from Fntastic',
+            user: 'User',
             picture: 'image/Profile/Profile-Picture.svg',
             text: newMessage
           }]);
@@ -71,7 +71,7 @@ export default function Chat() {
                                 <img src="image/Text-channel.svg" fill="#fff" alt=""/>
                             </div>
                             <h2>#Channel-1 </h2>
-                            <p className="fancy date"><span>8 March 2023</span></p>
+                            <p className="fancy date"><span>10 March 2023</span></p>
                         </div>
                         <div className="chat">
                         <div>
